@@ -1,4 +1,5 @@
-Key Features
+Key Features:-
+
 Book Data Management: Stores details for each book, including Book ID, Name, Author, Publisher, and Quantity.
 
 Batch Entry: Allows the user to input data for multiple books (set to 3 by default) at the start of the program.
